@@ -1,0 +1,66 @@
+leftnav:
+- identifier: a2b29268-36a2-c230-adb0-5be9acb8ab60
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 26a2c9d2-3c7e-8009-be99-11ab0a3d347b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: eb66e881-31e8-4c5d-ae78-ba67407a1fc6
+  name: Teaching Heuristics
+  pageRef: /pages/instructor-insights/teaching-heuristics
+  parent: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  weight: 40
+- identifier: 622ec636-5134-c39b-7cca-04a28496740f
+  name: Experiencing the Large Lecture as Theater
+  pageRef: /pages/instructor-insights/experiencing-the-large-lecture-as-theatre
+  parent: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  weight: 50
+- identifier: 4a383af9-17cb-aa4d-b5da-433f3c40b994
+  name: Assessment Informed by a Student-Centered Ethic
+  pageRef: /pages/instructor-insights/assessment-informed-by-a-student-centered-ethic
+  parent: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  weight: 60
+- identifier: 7656320c-8e4e-1623-d713-00b38f3b7a49
+  name: Managing an Online Forum
+  pageRef: /pages/instructor-insights/managing-an-online-forum
+  parent: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  weight: 70
+- identifier: 72f651ef-7c6c-85f9-293e-445d51148aab
+  name: Challenges Teaching Assistants Face
+  pageRef: /pages/instructor-insights/challenges-teaching-assistants-face
+  parent: f55530ea-3c45-6eb0-4848-4f3ee8291c38
+  weight: 80
+- identifier: 8e1d494b-e6f3-2eb8-ac1d-9abc0eec8c3d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 90
+- identifier: 28d36d64-2636-6698-bf1d-ed18c6190be7
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 100
+- identifier: 6be7704d-dfe2-6b4e-1270-3167347dd5bb
+  name: Mega-Recitation Videos
+  pageRef: /video_galleries/mega-recitation-videos
+  weight: 110
+- identifier: 25b4d967-a959-c4ce-cc7d-0545026be8c6
+  name: Tutorials
+  pageRef: /pages/tutorials
+  weight: 120
+- identifier: d791c36b-92a4-99f1-3db9-fe303e12e948
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 130
+- identifier: 03277b4c-92af-91b5-0815-fe20702119a2
+  name: Exams
+  pageRef: /pages/exams
+  weight: 140
+- identifier: 6083a261-cf57-8b91-7651-f1c1e1ef5001
+  name: Demonstrations
+  pageRef: /pages/demonstrations
+  weight: 150
