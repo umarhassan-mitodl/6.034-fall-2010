@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides tutorials on several topics related to artificial
   intelligence.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tutorials
 ocw_type: CourseSection

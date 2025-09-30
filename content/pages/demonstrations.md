@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section provides artificial intelligence demonstrations and the
   Java Runtime Environment required to use them.  '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Demonstrations
@@ -25,4 +27,4 @@ The demonstrations illustrate the following ideas:
 *   Biological mimetics: genetic algorithms, self-organizing maps, cross-modal clustering
 *   Learning: nearest neighbors, support vector machines, lattice learning, boosting
 
-The demonstrations require Java 8 and {{% resource_link "2a605f31-9e45-4a70-a952-62af762a7b39" "course instructions for installation" %}} are available. Please note that these instructions do require you to change Java security options. Then, you can {{% resource_link 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0 "run the demonstrations (JNLP)" %}}.
+The demonstrations require Java 8 and [course instructions for installation](https://ai6034.mit.edu/wiki/index.php?title=Demonstrations) are available. Please note that these instructions do require you to change Java security options. Then, you can {{% resource_link 6c062ac3-42cf-d6aa-4b8b-e040d66a41d0 "run the demonstrations (JNLP)" %}}.

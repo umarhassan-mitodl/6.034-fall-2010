@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-034-artificial-intelligence-fall-2010/aeb0f76f96bdbaffe8d73c39073e0bb4_iusTmgQyZ44.pdf
 file_size: 71295
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

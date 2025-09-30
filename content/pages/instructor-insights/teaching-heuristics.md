@@ -20,7 +20,7 @@ _In this section, Professor Patrick Winston shares some of the heuristics that s
 Begin with a Promise
 --------------------
 
-I’ve learned a lot about teaching by observing and talking with colleagues. My colleague {{% resource_link "5172a4a3-8da8-4cb4-a658-c2717502c20e" "Randall Davis" %}} told me that you always want to start a lecture with a promise of how students will be empowered by what they will learn in the lecture. In other words, you want to tell them what they’ll be able to do at the end of the lecture that they couldn't do in the beginning. I try to start every lecture with a promise, every time.
+I’ve learned a lot about teaching by observing and talking with colleagues. My colleague [Randall Davis](https://www.csail.mit.edu/user/805) told me that you always want to start a lecture with a promise of how students will be empowered by what they will learn in the lecture. In other words, you want to tell them what they’ll be able to do at the end of the lecture that they couldn't do in the beginning. I try to start every lecture with a promise, every time.
 
 In one lecture I show a program that will, depending on how you arrange it, complete in anywhere from 2 to 20 billion years. And then I show students how we can adjust it slightly and it will complete in the blink of an eye. I say, “By the end of this lecture, you'll know how to write the faster arrangement.” It’s very motivating!
 
@@ -50,7 +50,7 @@ In a recent lecture, for example, I was talking about the history of support vec
 
 The interesting story is that Vapnik further developed support vector machines when he got to the United States, in part, because he was irritated that several of his original papers were turned down. The power of showing that you're right and conquering doubters is enormously powerful motivation.
 
-My friend {{% resource_link "a5fa2ce8-4829-48ad-abce-6d3311649d9b" "Edward Roberts" %}} in the Sloan School studied entrepreneurship for much of his career. He will tell you that many, maybe most, entrepreneurs are not interested in the money. They're interested in showing that the people who doubted them or their ideas are wrong and that they will, in fact, be successful.
+My friend [Edward Roberts](http://mitsloan.mit.edu/faculty/detail.php?in_spseqno=19553) in the Sloan School studied entrepreneurship for much of his career. He will tell you that many, maybe most, entrepreneurs are not interested in the money. They're interested in showing that the people who doubted them or their ideas are wrong and that they will, in fact, be successful.
 
 I include ideas like this in my lectures. I call them powerful ideas. If all you’re teaching is skills, the educational experience you offer students is okay, but if you can accompany the skills with some big-picture, powerful ideas, the educational experience becomes more impactful, more important.
 

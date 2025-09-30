@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '184587983'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,14 +14,13 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'Coen, Michael. "{{% resource_link "1742c85e-62ef-4eef-a6e2-1f6929894810"
-  "Learning to Sing Like a Bird: Self-Supervised Acquisition of Birdsong (PDF)" %}}."
+related_resources_text: 'Coen, Michael. "[Learning to Sing Like a Bird: Self-Supervised
+  Acquisition of Birdsong (PDF)](http://people.csail.mit.edu/mhcoen/Papers/birdsong.pdf)."
   Proceedings of the AAAI, 2007.
 
 
-  Coen, Michael. "{{% resource_link "84318dbf-9ca8-40db-856e-e54e030e5548" "Multimodal
-  Dynamics: Self-Supervised Learning in Perceptual and Motor Systems" %}}." PhD thesis,
-  MIT, 2006.'
+  Coen, Michael. "[Multimodal Dynamics: Self-Supervised Learning in Perceptual and
+  Motor Systems](http://dspace.mit.edu/handle/1721.1/34022)." PhD thesis, MIT, 2006.'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

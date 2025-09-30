@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '183016172'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,9 +14,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: "Duarte, Jos\xE9 Pinto. \"{{% resource_link \"4f165903-1359-4ef9-8001-5bde181287ed\"\
-  \ \"Customizing Mass Housing: A Discursive Grammar for Siza's Malagueira Houses\"\
-  \ %}}.\" PhD thesis, MIT, 2001."
+related_resources_text: "Duarte, Jos\xE9 Pinto. \"[Customizing Mass Housing: A Discursive\
+  \ Grammar for Siza's Malagueira Houses](http://dspace.mit.edu/handle/1721.1/8189).\"\
+  \ PhD thesis, MIT, 2001."
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

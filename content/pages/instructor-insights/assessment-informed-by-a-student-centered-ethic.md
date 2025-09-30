@@ -15,7 +15,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-*In this section, Jessica Noss and Dylan Holmes, both teaching assistants in* 6.034 Artificial Intelligence, *discuss how a student-centered ethic shapes assessment and grading in the course. Professor Winston has also written about assessment in the course in an article entitled* {{% resource_link "41b30348-289b-473f-a825-443e7758d5d8" "*“Skills, Big Ideas, and Getting Grades out of the Way.”*" %}}
+*In this section, Jessica Noss and Dylan Holmes, both teaching assistants in* 6.034 Artificial Intelligence, *discuss how a student-centered ethic shapes assessment and grading in the course. Professor Winston has also written about assessment in the course in an article entitled* [*“Skills, Big Ideas, and Getting Grades out of the Way.”*](http://web.mit.edu/fnl/volume/204/winston.html)
 
 ## Assessing Students’ Broad Understanding
 
@@ -37,7 +37,7 @@ For each quiz, we come together and decide what it would take for students to de
 
 This five-point system alleviates stress about individual point differences. For example, students often understand the material but make trivial calculation errors that cause them to lose points. In *6.034 Artificial Intelligence*, if students are able to demonstrate a thorough level of understanding, they are guaranteed a five and aren’t penalized for insignificant mistakes. 
 
-We also offer a second-chance policy on quizzes via our final exam, which is optional. The sections of our final exam function as make-ups for each of the four quizzes. If students do poorly on a quiz, they have an opportunity to demonstrate understanding on the corresponding section of the final. Students may choose to do as many (or as few) of the sections of the final as they wish in the three-hour exam period, and we only replace their quiz scores with their corresponding final scores when it would improve their grade. As Professor Winston has written about in his article, {{% resource_link "41b30348-289b-473f-a825-443e7758d5d8" "\"Skills, Big Ideas, and Getting Grades out of the Way,\"" %}} the teaching staff members believe the final should serve as another opportunity for students to demonstrate mastery of the material. Our policy eliminates minor point differences and the pressure to perform well on a single quiz. Instead, we are able to focus on helping students learn the material, not specifically on when they do. 
+We also offer a second-chance policy on quizzes via our final exam, which is optional. The sections of our final exam function as make-ups for each of the four quizzes. If students do poorly on a quiz, they have an opportunity to demonstrate understanding on the corresponding section of the final. Students may choose to do as many (or as few) of the sections of the final as they wish in the three-hour exam period, and we only replace their quiz scores with their corresponding final scores when it would improve their grade. As Professor Winston has written about in his article, ["Skills, Big Ideas, and Getting Grades out of the Way,"](http://web.mit.edu/fnl/volume/204/winston.html) the teaching staff members believe the final should serve as another opportunity for students to demonstrate mastery of the material. Our policy eliminates minor point differences and the pressure to perform well on a single quiz. Instead, we are able to focus on helping students learn the material, not specifically on when they do. 
 
 ## Promoting Student Wellness With a Relaxed Submission Policy
 

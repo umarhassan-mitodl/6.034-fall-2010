@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '163204075'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,8 +14,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: More information about {{% resource_link "a20431a2-a361-41c8-9318-33341deb563b"
-  "Evolved Virtual Creatures" %}}, which is shown at the end of the lecture.
+related_resources_text: More information about [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html),
+  which is shown at the end of the lecture.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

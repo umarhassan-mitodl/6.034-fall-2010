@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '195468941'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,9 +14,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: Prof. Winston wrote about {{% resource_link "946bf445-8984-4016-b6dc-c7084de89e8a"
-  "the Rumpelstiltskin principle" %}}, which was briefly mentioned in this lecture,
-  in the _Slice of MIT_ blog.
+related_resources_text: Prof. Winston wrote about [the Rumpelstiltskin principle](https://alum.mit.edu/slice/rumpelstiltskin-principle),
+  which was briefly mentioned in this lecture, in the _Slice of MIT_ blog.
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
