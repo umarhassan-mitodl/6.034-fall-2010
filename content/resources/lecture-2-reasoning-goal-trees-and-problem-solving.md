@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '171035471'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,9 +12,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'Slagle, James. "[A Heuristic Program that Solves Symbolic
-  Integration Problems in Freshman Calculus](http://dx.doi.org/10.1145/321186.321193)."
-  _Journal of the ACM_ 10 (1963): 507-520.'
+related_resources_text: 'Slagle, James. "{{% resource_link "ce005f54-ffb6-41cc-92bf-b88ca9be92ec"
+  "A Heuristic Program that Solves Symbolic Integration Problems in Freshman Calculus"
+  %}}." _Journal of the ACM_ 10 (1963): 507-520.'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''

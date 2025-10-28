@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides problem sets and supporting code files from the
   Fall 2012 version of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

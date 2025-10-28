@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides answers to frequently asked questions
   about the course and information on meeting times and grading and collaboration
   policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -115,7 +113,7 @@ Poor understanding of the topic
 
 You will get an A if your average score is above about 4.5, a B if it is between about 3.5 and about 4.5, and so on. If you are near one of the transition points, your tutorial and recitation instructors can decide whether to round your grade up or down based on your class participation.
 
-Winston, Patrick. "[Skills, Big Ideas, and Getting Grades Out of the Way](http://web.mit.edu/fnl/volume/204/winston.html)." MIT Faculty Newsletter, March/April 2008.
+Winston, Patrick. "{{% resource_link "9968b954-cc9c-4201-a9a3-0b62bbf242c3" "Skills, Big Ideas, and Getting Grades Out of the Way" %}}." MIT Faculty Newsletter, March/April 2008.
 
 ### Quizzes
 
