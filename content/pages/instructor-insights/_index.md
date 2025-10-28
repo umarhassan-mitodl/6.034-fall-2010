@@ -17,7 +17,7 @@ video_metadata:
 
 This page focuses on the course *6.034 Artificial Intelligence* as it was taught by Professor Patrick Winston in Fall 2015.
 
-This course introduces students to representations, techniques, and architectures used to build applied systems and to account for intelligence from a computational point of view. Students learn applications of rule chaining, heuristic search, constrain propagation, constrained search, inheritance, and other problem-solving paradigms. They also learn applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms. The course introduces contributions of vision, language, and story-understanding systems to human-level intelligence. The teaching format includes three components: 1) lectures, which introduce core material and provide “big picture” context for the content; 2) [Right Now Talks](http://web.mit.edu/fnl/volume/254/winston.html), which offer students a view into what’s happening in today’s research projects in a way that complements the material presented in lectures; and 3) recitations, which allow students to review lecture material in more technical detail, to work through practice problems, and to ask questions in a small venue.
+This course introduces students to representations, techniques, and architectures used to build applied systems and to account for intelligence from a computational point of view. Students learn applications of rule chaining, heuristic search, constrain propagation, constrained search, inheritance, and other problem-solving paradigms. They also learn applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms. The course introduces contributions of vision, language, and story-understanding systems to human-level intelligence. The teaching format includes three components: 1) lectures, which introduce core material and provide “big picture” context for the content; 2) {{% resource_link "4ddd6786-7a2a-4e3c-8481-d14e6dba45d0" "Right Now Talks" %}}, which offer students a view into what’s happening in today’s research projects in a way that complements the material presented in lectures; and 3) recitations, which allow students to review lecture material in more technical detail, to work through practice problems, and to ask questions in a small venue.
 
 ## Course Outcomes
 
@@ -41,7 +41,7 @@ In the following pages, Professor Patrick Winston describes various aspects of h
 - {{% resource_link "eb66e881-31e8-4c5d-ae78-ba67407a1fc6" "Teaching Heuristics" %}}
 - {{% resource_link "622ec636-5134-c39b-7cca-04a28496740f" "Experiencing the Large Lecture as Theatre" %}}
 
-Note: For additional insights from Professor Winston, please see “[Looking at the Numbers](http://web.mit.edu/fnl/volume/232/winston.html)” in the MIT Faculty Newsletter.
+Note: For additional insights from Professor Winston, please see “{{% resource_link "18ae509e-f480-40d8-bad9-000e4954812e" "Looking at the Numbers" %}}” in the MIT Faculty Newsletter.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -63,7 +63,7 @@ Teaching assistants play an important role in the learning experiences of studen
 
 ### Requirements Satisfied
 
-*6.034 Artificial Intelligence* can be applied toward a [Bachelor of Science in Computer Science and Engineering (PDF)](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/), but is not required.
+*6.034 Artificial Intelligence* can be applied toward a {{% resource_link "76570012-3f93-4ee2-85f3-551d4870d9f4" "Bachelor of Science in Computer Science and Engineering (PDF)" %}}, but is not required.
 
 ### Offered
 
@@ -93,7 +93,7 @@ The students' grades were based on the following activities:
 - 20% Assessment on spiritual and Right Now talk material.
 - 20% Labs
 
-"Spiritual" material refers to lectures not considered part of the core skill set; the "[Right Now](http://web.mit.edu/fnl/volume/254/winston.html)" material refers to lectures given by what's-happening-right-now guest lecturers.
+"Spiritual" material refers to lectures not considered part of the core skill set; the "{{% resource_link "4ddd6786-7a2a-4e3c-8481-d14e6dba45d0" "Right Now" %}}" material refers to lectures given by what's-happening-right-now guest lecturers.
 
 ### Instructor Insights on Assessment
 
@@ -106,4 +106,4 @@ All of the scores are on a 1-5 scale, averaged together like a GPA. The 1-5 scal
 
 Students get an A if their average score is 4.5 or higher, a B if it is 3.5 or higher, but below 4.5, and so on. If they are near one of the transition points, the recitation instructor decides whether to round the grade up or down based on the student’s class participation.
 
-Note: See Prof. Winston's article, “[Skills, Big Ideas, and Getting Grades Out of the Way](http://web.mit.edu/fnl/volume/204/winston.html)” in the MIT Faculty News Letter for more information about his approach to assessment.
+Note: See Prof. Winston's article, “{{% resource_link "9968b954-cc9c-4201-a9a3-0b62bbf242c3" "Skills, Big Ideas, and Getting Grades Out of the Way" %}}” in the MIT Faculty News Letter for more information about his approach to assessment.
